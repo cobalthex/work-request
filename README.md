@@ -5,8 +5,8 @@ A simple PHP form that allows users to submit work requests that are emailed to 
 
 Prerequisites
 -------------
-+PHP 4
-+Email address
++ PHP 4
++ Email address
 
 To use
 ------
