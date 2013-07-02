@@ -26,10 +26,7 @@ $is_mobile = isset($_GET['mobile']);
 		border: none;
 	}
 
-	a:link    { color: <?php echo $textcolor; ?>; text-decoration:none; } /* unvisited link  */
-	a:visited { color: <?php echo $textcolor; ?>; text-decoration:none; } /* visited link    */
-	a:hover   { color: <?php echo $textcolor; ?>; text-decoration:none; } /* mouse over link */
-	a:active  { color: <?php echo $textcolor; ?>; text-decoration:none; } /* selected link   */
+	a { color: white; text-decoration:none; }
 
 	input[type="text"], textarea
 	{
