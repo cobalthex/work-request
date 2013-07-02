@@ -13,3 +13,5 @@ To use
 1. Add the work.php file to a directory of your choosing.
 2. Open the file and modify the top few lines to your selected options.
 3. Share link to whoever
+
++ Add &mobile to the end of the URL to display the form at a larger size and fit to the screen.
